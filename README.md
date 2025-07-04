@@ -32,7 +32,7 @@ It visualizes daily cases, deaths, and vaccinations across different countries.
 ### 🔷 Daily New Cases Chart
 ![Cases Chart](images/covid-dashboard_2.png)
 
-### 🔷 Sidebar Metrics
+### 🔷 Bar Chart 
 ![Sidebar Metrics](images/covid-dashboard_3.png)
 
 ---
