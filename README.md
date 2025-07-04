@@ -24,6 +24,19 @@ It visualizes daily cases, deaths, and vaccinations across different countries.
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### 🔷 Full Dashboard View
+![Dashboard Overview](images/covid-dashboard_1.png)
+
+### 🔷 Daily New Cases Chart
+![Cases Chart](images/covid-dashboard_2.png)
+
+### 🔷 Sidebar Metrics
+![Sidebar Metrics](images/covid-dashboard_3.png)
+
+---
+
 ## 📁 Files Included
 
 - `covid_dashboard.py` – Streamlit app code
